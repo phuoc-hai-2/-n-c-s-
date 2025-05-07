@@ -1,1 +1,1 @@
-# -n-c-s-
+# Đây là Project làm về đồ án cơ sở ngành
